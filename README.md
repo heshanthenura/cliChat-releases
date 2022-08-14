@@ -11,4 +11,4 @@
 #### If you are using linux you can download files from [here](https://github.com/heshanthenura/cliChat-releases/tree/main/Windows).
 
 ## 2.Exection
-    * WINDOWS 
+* WINDOWS 
