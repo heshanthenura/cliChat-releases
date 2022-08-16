@@ -2,7 +2,9 @@
 # <p align="center"> Command Line Chat Application </p>
  
 ## <p align="center"> Command Line Chat Application Made Using Socket Utility </p>
-![Test](https://user-images.githubusercontent.com/75155192/184900874-41824fb8-ab7c-4709-b9c8-83b1c13c9c94.mp4)
+
+<img align="center" src="https://user-images.githubusercontent.com/75155192/184902804-48656703-9a0a-41b6-86ec-ecd80e6c3b33.gif">
+
 ### I know there are lots of apps that are more efficient and easy to use. But I created this as a hobby project. You can create a Server and Client to communicate. The Server is made with [JAVA](https://en.wikipedia.org/wiki/Java_(programming_language)) and client made with [GOLANG](https://en.wikipedia.org/wiki/Go_(programming_language)) 
 <br>
 
