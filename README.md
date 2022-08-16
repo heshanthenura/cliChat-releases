@@ -5,6 +5,8 @@
 
 <img style="text-align: center;" src="https://user-images.githubusercontent.com/75155192/184902804-48656703-9a0a-41b6-86ec-ecd80e6c3b33.gif">
 
+[![Java][Java.com]][Java-url]
+
 ### I know there are lots of apps that are more efficient and easy to use. But I created this as a hobby project. You can create a Server and Client to communicate. The Server is made with [JAVA](https://en.wikipedia.org/wiki/Java_(programming_language)) and client made with [GOLANG](https://en.wikipedia.org/wiki/Go_(programming_language)) 
 <br>
 
