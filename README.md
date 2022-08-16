@@ -30,7 +30,7 @@
 If you are using *LINUX* you can download files from [here](https://github.com/heshanthenura/cliChat-releases/tree/main/Linux).
 If you are using *WINDOWS* you can download files from [here](https://github.com/heshanthenura/cliChat-releases/tree/main/Windows).
 
-## 2.Exection
+## 2.Execution
    ### Windows
 <hr>
 
