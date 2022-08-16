@@ -21,7 +21,7 @@
         </li>
         <li><a href="#3usage">Usage</a></li>
         <li><a href="#4commands">Commands</a></li>
-        <li><a href="5kind-request">Kind Request</a></li>
+        <li><a href="#5kind-request">Kind Request</a></li>
     </ol>
 </details>
 
