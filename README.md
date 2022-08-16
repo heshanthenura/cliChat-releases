@@ -9,7 +9,7 @@
 <details open>
 <summary>Table of Content</summary>
     <ol>
-        <a href="#installation">Installation</a>
+        <a href="#1installation">Installation</a>
     </ol>
 </details>
 
