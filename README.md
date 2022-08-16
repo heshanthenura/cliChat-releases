@@ -6,7 +6,7 @@
 <img style="text-align: center;" src="https://user-images.githubusercontent.com/75155192/184914041-e580521e-b5ad-4a26-a0ec-37a877b3f519.png">
 
 
-### I know there are lots of apps that are more efficient and easy to use. But I created this as a hobby project. You can create a Server and Client to communicate. The Server is made with ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) and client made with ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+### I know there are lots of apps that are more efficient and easy to use. But I created this as a hobby project. You can create a Server and Client to communicate. The Server is made with ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) and client made with ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white). [My Kind Request](#5kind-request)
 <br>
 
 <details open>
@@ -110,3 +110,5 @@ That how you should use this application.
 `Commands are still Not Implemented`
 
 ## 5.Kind Request
+
+##### Test my app, find bugs and report. This is not my my final app. I want to invent another useful application using this concept. Suggest me what commands should I implement and what are other changes that I should do.
