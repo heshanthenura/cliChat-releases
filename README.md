@@ -107,6 +107,9 @@ Usage is same for any OS
 That how you should use this application.
 
 ## 4.Commands
+ 1. /count - Find number of users in the Server
+ 2. /chg \<new name> - Change NickName ex:- /chg Elon
+
 `Commands are still Not Implemented`
 
 ## 5.Kind Request
