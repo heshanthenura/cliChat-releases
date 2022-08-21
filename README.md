@@ -108,7 +108,7 @@ That how you should use this application.
 
 ## 4.Commands
  1. `/count` - Find number of users in the Server
- 2. `/chg \<new name>` - Change NickName ex:- `/chg Elon`
+ 2. `/chg <new name>` - Change NickName ex:- `/chg Elon`
 
 
 ## 5.Kind Request
